@@ -54,6 +54,27 @@ Package.json has the all dependencies information.
 it's a good practice put each block of HTML code inside a different file
 
 
+-----------------------------------------
+
+React-course-project it's the final project of react course which URL it's the following
+https://www.youtube.com/watch?v=Dorf8i6lCuk&list=PL4--cG2bOVTAv0Pu74hBzCSF75aBU8ApB&index=1&t=1136s
+
+what is routing in React?
+
+Change what it's visible in the page without charge a different HTML pages
+we use react-router-dom in order to do that
+the command in order to install that dependencie it's the following
+npm install react-router-dom
+
+What "Add route" means: 
+
+we have to add a routing tool which is watching
+ all URL changes and we need to indicate to this Tool wich component should be loaded as a 
+ page for which route 
+
+
+
+
 
 
 */
